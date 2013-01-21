@@ -4,7 +4,7 @@
 ##What's Swapper:
 Swapper is a **Sublime text 2 plugin** that swap the two characters just before the cursor.
 
-How many times you wanted to type 'ea' and you end up with 'ae' then you press **backspace** twice, then rewrite that's 4 presses. with Swapper you do that with just one press **f1**.
+How many times you wanted to type 'ea' and you end up with 'ae' then you press **backspace** twice then rewrite, that's 4 presses. with Swapper you do that with just one press **f1**.
 
 ##How to use it:
   1. From menu **Edit > Swapper**.
@@ -19,7 +19,7 @@ sae
 ```
 sea
 ```
-####Example 1:
+####Example 2:
 ```
 j
 ```
